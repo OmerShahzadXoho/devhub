@@ -1,0 +1,10 @@
+--- 
+services: 
+  - 
+    name: 3cx
+    type: url
+    target: "https://meet.xoho.app/webclient/#/people"
+  - 
+    name: gitlab
+    type: url
+    target: "https://git.xoho.dev/"
