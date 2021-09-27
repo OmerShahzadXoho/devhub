@@ -6,7 +6,7 @@ metadata:
   #You Can Go This Link To Open Our Collaboration and Documentation Tool
   url: https://github.com/
   annotations:
-    backstage.io/techdocs-ref: 
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitHub.yaml
 spec:
   type: Service
   lifecycle: Production

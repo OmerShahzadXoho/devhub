@@ -6,7 +6,7 @@ metadata:
   #You Can Go This Link To Open Our Code Management Tool
   url: https://git.xoho.dev/
   annotations:
-    backstage.io/techdocs-ref: 
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitLab.yaml
 spec:
   type: Service
   lifecycle: Production
