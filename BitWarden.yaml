@@ -3,8 +3,10 @@ kind: Component
 metadata:
   name: BitWarden
   description: Password Management Tool
-  #You Can Click This Link To Open Our Password Management Service
-  url: https://safe.xoho.team/#/
+  links:
+    - url: https://safe.xoho.team/#/
+      title: Password Managenment Tool 
+      icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/BitWarden.yaml
 spec:
