@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: BitWarden
+  description: Password Management Tool
+  #You Can Click This Link To Open Our Jira Service
+  url: 
+  annotations:
+    backstage.io/techdocs-ref: 
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Xoho Tech
+  displayName: Omer_Shahzad
