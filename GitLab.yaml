@@ -4,7 +4,10 @@ metadata:
   name: GitLab
   description: Code Management Tool
   #You Can Go This Link To Open Our Code Management Tool
-  url: https://git.xoho.dev/
+  links:
+    - url: https://git.xoho.dev/
+      title: Here you can manage and share you code 
+      icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitLab.yaml
 spec:
