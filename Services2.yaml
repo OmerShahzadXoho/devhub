@@ -8,6 +8,8 @@ metadata:
       title: My Dashboard
       icon: dashboard
       description: calling and meething services
+      annotations:
+         backstage.io/techdocs-ref: value
 
 spec:
   profile:
