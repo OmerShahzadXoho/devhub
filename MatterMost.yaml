@@ -5,7 +5,7 @@ metadata:
   description: Communication Tool
   links:
     - url: https://chat.xoho.team/xoho-tech/
-      title: Communication Tool
+      title: Matter Most
       icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/MatterMost.yaml
