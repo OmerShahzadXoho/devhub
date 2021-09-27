@@ -2,14 +2,13 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: 3cx
-  description: calling servcie
+  description: Meeting Service
   url: https://meet.xoho.app/webclient/#/people
   annotations:
-    backstage.io/techdocs-ref: https://github.com/OmerShahzadXoho/devhub/blob/main/Services2.yaml
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Services2.yaml
     backstage.io/managed-by-location: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Services2.yaml
 spec:
-  type: website
-  lifecycle: production
+  type: Service
   owner: Xoho Tech
   displayName: omer shahzad
 
