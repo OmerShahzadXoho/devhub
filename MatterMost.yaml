@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: MatterMost
+  description: Communication Tool
+  #You Can Click This Link To Open Our Chat Service
+  url: 
+  annotations:
+    backstage.io/techdocs-ref:
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Xoho Tech
+  displayName: Omer_Shahzad

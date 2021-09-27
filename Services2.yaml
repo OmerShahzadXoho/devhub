@@ -3,12 +3,13 @@ kind: Component
 metadata:
   name: 3cx
   description: Meeting Service
+    #You Can Click This Link To Open Our Meeting Service (3CX)
   url: https://meet.xoho.app/webclient/#/people
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Services2.yaml
 spec:
-  type: service
-  lifecycle: production
+  type: Service
+  lifecycle: Production
   owner: Xoho Tech
   displayName: omer shahzad
 
