@@ -7,6 +7,7 @@ metadata:
     - url: https://meet.xoho.app/webclient/#/people
       title: My Dashboard
       icon: dashboard
+      description: calling and meething services
 
 spec:
   profile:
