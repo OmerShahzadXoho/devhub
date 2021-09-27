@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Jira
+  description: Task Management Tool
+  url: https://jira.xoho.team/secure/Dashboard.jspa
+  annotations:
+    backstage.io/techdocs-ref: url:
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Xoho Tech
+  displayName: Omer_Shahzad
