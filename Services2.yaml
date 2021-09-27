@@ -2,10 +2,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: component
 metadata: 
-  links: 
-      title: 3cx
-      url: "https://meet.xoho.app/webclient/#/people"
-  name: backstage
+  name: 3cx
+  links:
+    - url: https://meet.xoho.app/webclient/#/people
+      title: My Dashboard
+      icon: dashboard
+
 spec:
   profile:
     owner: Xoho Tech
