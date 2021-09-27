@@ -1,10 +1,9 @@
+--- 
 apiVersion: backstage.io/v1alpha1
-services: 
-  - 
-    name: 3cx
-    type: url
-    target: "https://meet.xoho.app/webclient/#/people"
-  - 
-    name: gitlab
-    type: url
-    target: "https://git.xoho.dev/"
+metadata: 
+  links: 
+    - 
+      icon: call
+      title: 3cx
+      url: "https://meet.xoho.app/webclient/#/people"
+  name: 3cx
