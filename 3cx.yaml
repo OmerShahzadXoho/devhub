@@ -4,7 +4,10 @@ metadata:
   name: 3cx
   description: Meeting Service
     #You Can Click This Link To Open Our Meeting Service (3CX)
-  url: https://meet.xoho.app/webclient/#/people
+  links:
+    - url: https://meet.xoho.app/webclient/#/people
+      title: Meeting Service
+      icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Services2.yaml
 spec:
