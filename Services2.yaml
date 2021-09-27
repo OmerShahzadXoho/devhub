@@ -1,6 +1,6 @@
 --- 
 apiVersion: backstage.io/v1alpha1
-kind: service
+kind: component
 metadata: 
   links: 
       title: 3cx
