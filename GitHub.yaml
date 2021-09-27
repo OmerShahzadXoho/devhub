@@ -6,6 +6,8 @@ metadata:
   #You Can Go This Link To Open Our Collaboration and Documentation Tool
   links:
     - url: https://github.com/
+      title: Here you can manage and share you code 
+      icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitHub.yaml
 spec:
