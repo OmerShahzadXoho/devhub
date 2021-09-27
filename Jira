@@ -5,7 +5,7 @@ metadata:
   description: Task Management Tool
   url: https://jira.xoho.team/secure/Dashboard.jspa
   annotations:
-    backstage.io/techdocs-ref: url:
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Jira
 spec:
   type: Service
   lifecycle: Production
