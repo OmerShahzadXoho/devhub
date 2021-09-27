@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: BIt Warden
-  description: Safe For Password
-  url: https://safe.xoho.team/
+  name: Jira
+  description: Task Management Tool
+  url: https://jira.xoho.team/secure/Dashboard.jspa
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Jira
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Jira.yaml
 spec:
   type: Service
   lifecycle: Production
