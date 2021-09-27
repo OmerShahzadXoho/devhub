@@ -1,9 +1,13 @@
 --- 
 apiVersion: backstage.io/v1alpha1
+kind: Component
 metadata: 
+  description: "Backstage is an open-source developer portal that puts the developer experience first.\n"
   links: 
     - 
-      icon: call
       title: 3cx
       url: "https://meet.xoho.app/webclient/#/people"
-  name: 3cx
+  name: backstage
+spec: 
+  owner: "Xoho Tech"
+  type: service
