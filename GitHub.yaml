@@ -4,7 +4,7 @@ metadata:
   name: GitHub
   description: Collaboration and Documentation Tool
   #You Can Go This Link To Open Our Collaboration and Documentation Tool
-  link:
+  links:
     url: https://github.com/
     title: github
   annotations:
