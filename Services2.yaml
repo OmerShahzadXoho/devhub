@@ -9,7 +9,7 @@ metadata:
       icon: dashboard
       description: calling and meething services
       annotations:
-         backstage.io/techdocs-ref: value
+         backstage.io/techdocs-ref: https://github.com/OmerShahzadXoho/devhub/blob/main/Services2.yaml
 
 spec:
   profile:
