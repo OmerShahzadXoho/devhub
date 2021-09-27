@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GitHub
+  description: Collaboration and Documentation Tool
+  #You Can Go This Link To Open Our Collaboration and Documentation Tool
+  url: https://github.com/
+  annotations:
+    backstage.io/techdocs-ref: 
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Xoho Tech
+  displayName: Omer_Shahzad

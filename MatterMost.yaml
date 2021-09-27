@@ -3,8 +3,8 @@ kind: Component
 metadata:
   name: MatterMost
   description: Communication Tool
-  #You Can Click This Link To Open Our Chat Service
-  url: 
+  #You Can Go This Link To Open Our Chat Service
+  url: https://chat.xoho.team/xoho-tech/
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/MatterMost.yaml
 spec:

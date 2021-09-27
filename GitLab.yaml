@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GitLab
+  description: Code Management Tool
+  #You Can Go This Link To Open Our Code Management Tool
+  url: https://git.xoho.dev/
+  annotations:
+    backstage.io/techdocs-ref: 
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Xoho Tech
+  displayName: Omer_Shahzad
