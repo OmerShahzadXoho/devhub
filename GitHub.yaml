@@ -1,14 +1,21 @@
+--- 
 apiVersion: backstage.io/v1alpha1
 kind: Component
-metadata:
-    links:
-    - url: https://www.google.com
-      title: My Dashboard
-      icon: dashboard
-  annotations:
-    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitHub.yaml
-spec:
-  type: Service
-  lifecycle: Production
-  owner: Xoho Tech
-  displayName: Omer_Shahzad
+metadata: 
+  description: "This is a service 4 test of YML File"
+  icon: web
+  links: 
+    - 
+      url: "https://10fastfingers.com/typing-test/english"
+  name: service-4-10-fingers
+  tags: 
+    - javascript
+    - html
+    - css
+    - bootstrap
+  title: "How Fast Can You Type"
+spec: 
+  lifecycle: experimental
+  owner: team-a
+  system: artist-engagement-portal
+  type: service
