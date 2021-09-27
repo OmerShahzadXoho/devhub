@@ -2,10 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: BitWarden
-  description: Password Management Tool
+  description: Use can save you password here it is secure safe of our company 
   links:
     - url: https://safe.xoho.team/#/
-      title: Password Managenment Tool 
+      title: Bit Warden
       icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/BitWarden.yaml

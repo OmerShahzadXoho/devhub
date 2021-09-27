@@ -2,11 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: GitLab
-  description: Code Management Tool
-  #You Can Go This Link To Open Our Code Management Tool
+  description: It is our Code Management Tool you can push you code here and your team can see and use it
   links:
     - url: https://git.xoho.dev/
-      title: Here you can manage and share you code 
+      title: GitLab
       icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitLab.yaml

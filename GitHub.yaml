@@ -2,11 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: GitHub
-  description: Collaboration and Documentation Tool
-  #You Can Go This Link To Open Our Collaboration and Documentation Tool
+  description: It is Collaboration and Documentation Tool
   links:
     - url: https://github.com/
-      title: Collaboration and Documentation Tool
+      title: GitHub
       icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitHub.yaml

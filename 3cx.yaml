@@ -2,11 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: 3cx
-  description: Meeting Service
-    #You Can Click This Link To Open Our Meeting Service (3CX)
+  description: It is our Meeting Service
   links:
     - url: https://meet.xoho.app/webclient/#/people
-      title: Meeting Service
+      title: 3cx
       icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Services2.yaml

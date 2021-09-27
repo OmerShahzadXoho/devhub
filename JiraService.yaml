@@ -2,11 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: Jira
-  description: Task Management Tool
-  #You Can Go This Link To Open Our Jira Service
+  description: It is our Task Management Tool
   links:
     - url: https://jira.xoho.team/secure/Dashboard.jspa
-      title: Task Management Tool
+      title: Jira
       icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/JiraService.yaml

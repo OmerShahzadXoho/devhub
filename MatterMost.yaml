@@ -2,10 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: MatterMost
-  description: Communication Tool
+  description: It is our internal Communication Tool
   links:
     - url: https://chat.xoho.team/xoho-tech/
-      title: Communication Tool
+      title: Matter Most
       icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/MatterMost.yaml
