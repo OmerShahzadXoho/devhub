@@ -4,7 +4,9 @@ metadata:
   name: GitHub
   description: Collaboration and Documentation Tool
   #You Can Go This Link To Open Our Collaboration and Documentation Tool
-  url: https://github.com/
+  link:
+    url: https://github.com/
+    title: github
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitHub.yaml
 spec:
