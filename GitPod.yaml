@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GitPod
+  description: It is online Coding Environment
+  links:
+    - url: https://xoho.tools/
+      title: GitLab
+      icon: web
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitPod.yaml
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Xoho Tech
+  displayName: Omer_Shahzad
+
+
+
