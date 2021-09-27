@@ -8,7 +8,7 @@ metadata:
       title: Jira
       icon: web
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/JiraService.yaml
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Jira.yaml
 spec:
   type: Service
   lifecycle: Production

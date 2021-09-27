@@ -8,7 +8,7 @@ metadata:
       title: 3cx
       icon: web
   annotations:
-    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Services2.yaml
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/3cx.yaml
 spec:
   type: Service
   lifecycle: Production
