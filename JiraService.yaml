@@ -6,7 +6,7 @@ metadata:
   #You Can Go This Link To Open Our Jira Service
   links:
     - url: https://jira.xoho.team/secure/Dashboard.jspa
-      title: Here we can Mnage Our Daily Taks
+      title: Task Management Tool
       icon: web
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/JiraService.yaml
