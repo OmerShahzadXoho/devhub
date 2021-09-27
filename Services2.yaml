@@ -6,6 +6,11 @@ metadata:
       title: 3cx
       url: "https://meet.xoho.app/webclient/#/people"
   name: backstage
-spec: 
-  owner: Xoho Tech
-  type: service
+spec:
+  profile:
+    owner: Xoho Tech
+    type: service
+    displayName: omer shahzad
+    email: jenny-doe@example.com
+    picture: https://example.com/staff/jenny-with-party-hat.jpeg
+    memberOf: [team-b, employees]
