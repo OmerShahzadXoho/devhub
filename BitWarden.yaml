@@ -3,10 +3,10 @@ kind: Component
 metadata:
   name: BitWarden
   description: Password Management Tool
-  #You Can Click This Link To Open Our Jira Service
-  url: 
+  #You Can Click This Link To Open Our Password Management Service
+  url: https://safe.xoho.team/#/
   annotations:
-    backstage.io/techdocs-ref: 
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/BitWarden.yaml
 spec:
   type: Service
   lifecycle: Production
