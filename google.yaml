@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Google
+  description: It is our Meeting Service
+  links:
+    - url: https://www.google.com
+      title: 3cx
+      icon: web
+  annotations:
+    backstage.io/techdocs-ref: url:
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Xoho Tech
+  displayName: omer shahzad
