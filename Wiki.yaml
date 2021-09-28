@@ -7,8 +7,7 @@ metadata:
     - url: https://playbook.xoho.team/
       title: Wiki
       icon: web
-  annotations:
-    backstage.io/techdocs-ref: 
+
 spec:
   type: Service
   lifecycle: Experimental 
