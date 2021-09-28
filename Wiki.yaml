@@ -1,0 +1,22 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Wiki
+  description: Wiki provide a place in your repository to lay out the roadmap of your project, show the current status, and document software better, together.
+  links:
+    - url: https://playbook.xoho.team/
+      title: Wiki
+      icon: web
+  annotations:
+    backstage.io/techdocs-ref: 
+spec:
+  type: Service
+  lifecycle: Experimental 
+  owner: Xoho Tech
+  displayName: Omer_Shahzad
+
+
+
+
+
+
