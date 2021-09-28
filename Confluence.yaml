@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Confluence
+  description: It is Collaboration and Documentation Tool
+  links:
+    - url: https://confluence.xoho.team/
+      title: Confluence
+      icon: web
+  annotations:
+    backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Confluence.yaml
+spec:
+  type: Service
+  lifecycle: Production
+  owner: Xoho Tech
+  displayName: Omer_Shahzad
