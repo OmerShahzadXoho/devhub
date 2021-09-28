@@ -7,7 +7,8 @@ metadata:
     - url: https://playbook.xoho.team/
       title: Wiki
       icon: web
-
+  annotations:
+      backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitPod.yaml
 spec:
   type: Service
   lifecycle: Experimental 

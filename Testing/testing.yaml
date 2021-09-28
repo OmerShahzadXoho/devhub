@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: testing
+  description: testing 1 2 3
+  links:
+    - url: https://www.google.com
+      title: testing
+      icon: lock
+  annotations:
+    github.com/project-slug: 
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: no type
+  lifecycle: Experimental
+  owner: Xoho Tech
+  displayName: omer shahzad
+
