@@ -8,7 +8,7 @@ metadata:
       title: testing
       icon: lock
   annotations:
-    github.com/project-slug: 
+    github.com/project-slug: OmerShahzadXoho/devhub/tree/main/Testing
     backstage.io/techdocs-ref: dir:.
 spec:
   type: no type
