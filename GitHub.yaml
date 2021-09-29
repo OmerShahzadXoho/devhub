@@ -7,10 +7,13 @@ metadata:
     - url: https://github.com/
       title: GitHub
       icon: web
+  tags:
+    - GitHub
+    - xohotech
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitHub.yaml
 spec:
   type: Service
   lifecycle: Production
-  owner: Xoho Tech
+  owner: Xoho-Tech
   displayName: Omer_Shahzad

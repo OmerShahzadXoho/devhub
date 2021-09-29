@@ -7,12 +7,15 @@ metadata:
     - url: https://xoho.tools/
       title: GitLab
       icon: web
+  tags:
+    - GitLab
+    - xohotech
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/GitPod.yaml
 spec:
   type: Service
   lifecycle: Production
-  owner: Xoho Tech
+  owner: Xoho-Tech
   displayName: Omer_Shahzad
 
 

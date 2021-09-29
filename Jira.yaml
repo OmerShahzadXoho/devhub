@@ -7,10 +7,13 @@ metadata:
     - url: https://jira.xoho.team/secure/Dashboard.jspa
       title: Jira
       icon: web
+  tags:
+    - Jira
+    - xohotech
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/Jira.yaml
 spec:
   type: Service
   lifecycle: Production
-  owner: Xoho Tech
+  owner: Xoho-Tech
   displayName: Omer_Shahzad

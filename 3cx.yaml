@@ -7,11 +7,14 @@ metadata:
     - url: https://meet.xoho.app/webclient/#/people
       title: 3cx
       icon: web
+  tags:
+    - 3cx
+    - xohotech
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/3cx.yaml
 spec:
   type: Service
   lifecycle: Production
-  owner: Xoho Tech
+  owner: Xoho-Tech
   displayName: omer shahzad
 

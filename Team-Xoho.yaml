@@ -1,0 +1,95 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: Team-Xoho
+  description: Team Xoho
+spec:
+  type: team
+  profile:
+    # Intentional no displayName for testing
+    email: team-a@example.com
+    picture: https://avatars.dicebear.com/api/identicon/team-a@example.com.svg?background=%23fff&margin=25
+  parent: backstage
+  children: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Omer-Shahzad
+spec:
+  profile:
+    displayName: Omer Shahzad
+    email: omers@xoho.tech
+    picture: https://avatars.dicebear.com/api/avataaars/breanna-davison@example.com.svg?background=%23fff
+  memberOf: [Xoho-Tech]
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Hanzla
+spec:
+  profile:
+    displayName: Hanzla Khalid
+    email: hanzlak@xoho.tech
+    picture: https://avatars.dicebear.com/api/avataaars/janelle-dawe@example.com.svg?background=%23fff
+  memberOf: [Xoho-Tech]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Mohsin 
+spec:
+  profile:
+    displayName: Muhammad Mohsin 
+    email: mmohsin@xoho.tech
+    picture: https://avatars.dicebear.com/api/avataaars/janelle-dawe@example.com.svg?background=%23fff
+  memberOf: [Xoho-Tech]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Saad
+spec:
+  profile:
+    displayName: Muhammad Saad
+    email: msaad@xoho.tech
+    picture: https://avatars.dicebear.com/api/avataaars/janelle-dawe@example.com.svg?background=%23fff
+  memberOf: [Xoho-Tech]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Usama
+spec:
+  profile:
+    displayName: Usama Fazal
+    email: ufazal@xoho.tech
+    picture: https://avatars.dicebear.com/api/avataaars/janelle-dawe@example.com.svg?background=%23fff
+  memberOf: [Xoho-Tech]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Ahmad
+spec:
+  profile:
+    displayName: Muhammad Ahmad
+    email: mahmad@xoho.tech
+    picture: https://avatars.dicebear.com/api/avataaars/janelle-dawe@example.com.svg?background=%23fff
+  memberOf: [Xoho-Tech]
+
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Asad
+spec:
+  profile:
+    displayName: Asad Bukhari
+    email: asadb@xoho.tech
+    picture: https://avatars.dicebear.com/api/avataaars/janelle-dawe@example.com.svg?background=%23fff
+  memberOf: [Xoho-Tech]

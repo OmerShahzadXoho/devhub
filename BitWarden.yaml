@@ -7,10 +7,14 @@ metadata:
     - url: https://safe.xoho.team/#/
       title: Bit Warden
       icon: web
+  tags:
+    - bitwarden
+    - xohotech
+    - safe
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/BitWarden.yaml
 spec:
   type: Service
   lifecycle: Production
-  owner: Xoho Tech
+  owner: Xoho-Tech
   displayName: Omer_Shahzad

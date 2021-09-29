@@ -7,10 +7,13 @@ metadata:
     - url: https://chat.xoho.team/xoho-tech/
       title: Matter Most
       icon: web
+  tags:
+    - MatterMost
+    - xohotech
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/OmerShahzadXoho/devhub/blob/main/MatterMost.yaml
 spec:
   type: Service
   lifecycle: Production
-  owner: Xoho Tech
+  owner: Xoho-Tech
   displayName: Omer_Shahzad
